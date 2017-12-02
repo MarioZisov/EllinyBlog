@@ -1,0 +1,59 @@
+body.main {
+    background-color:#fbf9f4   
+}
+
+header.header {
+    margin: 5% 10px 10px 10px;
+}
+
+img.header-img {     
+    margin: auto;
+}
+
+.bg-primary {
+    background-color: #fbf9f4 !important;
+}
+
+.navbar-dark .navbar-nav .show > .nav-link, .navbar-dark .navbar-nav .active > .nav-link, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .nav-link.active {
+    color: Red;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: black;
+}
+
+.navbar-dark .navbar-nav a.nav-link:hover{
+    color: red;
+}
+
+.navbar-dark .navbar-nav a.nav-link.disabled:hover {
+    color: #636363
+}
+
+.navbar-dark .navbar-nav a.nav-link.disabled {
+    color: #636363;
+}
+
+.navbar-dark .navbar-toggler {
+    color:  black;
+}
+
+.navbar-dark .navbar-toggler:hover {
+    color:  red;
+}
+
+.navbar-dark .navbar-toggler:focus {
+    outline: none;
+}
+
+.navbar-toggler {
+    font-size: 15px;
+}
+
+/* .navbar.stick-left {
+    padding-left: 0px;
+} */
+
+.stick-left{
+    padding-left: 0px;
+}
