@@ -12,6 +12,11 @@ img.header-img {
     margin-right: auto;
 }
 
+.navbar {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
 .bg-primary {
     background-color: #fbf9f4 !important;
     /* background-color: gray !important; */        
@@ -73,20 +78,24 @@ hr.hr-header {
 }
 
 .rec-left {
+    margin-bottom: 10px;
     width: 100%;
     height: 400px;
     background: blue;
 }
 
 .rec-right {
+    margin-bottom: 10px;
     width: 100%;
-    height: 400px;
+    height: 300px;
     background: green;
 }
 
 .rec-small{
+    margin-bottom: 10px;
     width: 100%;
-    height: 400px;
+    max-width: 200px;
+    height: 200px;
     background: purple; 
 }
 
